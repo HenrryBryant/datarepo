@@ -3395,7 +3395,7 @@
                         "POSITION" : 13
                     },
                     "indices" : 12,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3433,7 +3433,7 @@
                         "POSITION" : 22
                     },
                     "indices" : 21,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3446,7 +3446,7 @@
                         "POSITION" : 25
                     },
                     "indices" : 24,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3471,7 +3471,7 @@
                         "POSITION" : 31
                     },
                     "indices" : 30,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3509,7 +3509,7 @@
                         "POSITION" : 40
                     },
                     "indices" : 39,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3534,7 +3534,7 @@
                         "POSITION" : 46
                     },
                     "indices" : 45,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3597,7 +3597,7 @@
                         "POSITION" : 61
                     },
                     "indices" : 60,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3648,7 +3648,7 @@
                         "POSITION" : 73
                     },
                     "indices" : 72,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3759,7 +3759,7 @@
                         "POSITION" : 100
                     },
                     "indices" : 99,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3772,7 +3772,7 @@
                         "POSITION" : 103
                     },
                     "indices" : 102,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         },
@@ -3986,7 +3986,7 @@
                         "POSITION" : 154
                     },
                     "indices" : 153,
-                    "material" : 0
+                    "material" : 3
                 }
             ]
         }
